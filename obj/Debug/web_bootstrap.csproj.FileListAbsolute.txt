@@ -1,0 +1,9 @@
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\bin\web_bootstrap.dll.config
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\bin\web_bootstrap.dll
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\bin\web_bootstrap.pdb
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\obj\Debug\web_bootstrap.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\obj\Debug\web_bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\obj\Debug\web_bootstrap.dll
+C:\Users\Unicomfacauca\source\repos\web_bootstrap\web_bootstrap\obj\Debug\web_bootstrap.pdb
